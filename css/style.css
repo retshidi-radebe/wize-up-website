@@ -274,7 +274,7 @@
 }
 
 .service-item:hover * {
-    color: var(--light) !important;
+    color: #057be3 !important;
 }
 
 
@@ -347,7 +347,7 @@
 }
 
 .testimonial-carousel .owl-item.center .testimonial-text * {
-    color: #FFFFFF !important;
+    color: #057be3 !important;
 }
 
 .testimonial-carousel .owl-dots {

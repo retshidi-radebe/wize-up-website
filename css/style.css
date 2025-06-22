@@ -497,4 +497,23 @@
     font-size: 1.5em;
     cursor: pointer;
   }
+
   
+.owl-prev, .owl-next {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #00bcd4;
+  position: absolute;
+  top: 40%;
+  transform: translateY(-50%);
+  z-index: 999;
+}
+
+.owl-prev {
+  left: -30px;
+}
+
+.owl-next {
+  right: -30px;
+}
